@@ -8,13 +8,35 @@
 
 /* Begin PBXBuildFile section */
 		30E560421E80D26B00162E3B /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30E560411E80D26B00162E3B /* AppDelegate.swift */; };
-		30E560441E80D26B00162E3B /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30E560431E80D26B00162E3B /* ViewController.swift */; };
+		30E560441E80D26B00162E3B /* HomeViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30E560431E80D26B00162E3B /* HomeViewController.swift */; };
 		30E560471E80D26B00162E3B /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 30E560451E80D26B00162E3B /* Main.storyboard */; };
 		30E5604A1E80D26B00162E3B /* StyleMe1.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 30E560481E80D26B00162E3B /* StyleMe1.xcdatamodeld */; };
 		30E5604C1E80D26B00162E3B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 30E5604B1E80D26B00162E3B /* Assets.xcassets */; };
 		30E5604F1E80D26B00162E3B /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 30E5604D1E80D26B00162E3B /* LaunchScreen.storyboard */; };
 		30E5605A1E80D26C00162E3B /* StyleMe1Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30E560591E80D26C00162E3B /* StyleMe1Tests.swift */; };
 		30E560651E80D26C00162E3B /* StyleMe1UITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30E560641E80D26C00162E3B /* StyleMe1UITests.swift */; };
+		30E560731E80D29300162E3B /* Line.png in Resources */ = {isa = PBXBuildFile; fileRef = 30E560721E80D29300162E3B /* Line.png */; };
+		30E560751E80D29E00162E3B /* Walk-In-Closet-Design.png in Resources */ = {isa = PBXBuildFile; fileRef = 30E560741E80D29E00162E3B /* Walk-In-Closet-Design.png */; };
+		30E5607A1E80D2AC00162E3B /* Ellipse.png in Resources */ = {isa = PBXBuildFile; fileRef = 30E560761E80D2AC00162E3B /* Ellipse.png */; };
+		30E5607B1E80D2AC00162E3B /* Ellipse 10.png in Resources */ = {isa = PBXBuildFile; fileRef = 30E560771E80D2AC00162E3B /* Ellipse 10.png */; };
+		30E5607C1E80D2AC00162E3B /* pastlooks.png in Resources */ = {isa = PBXBuildFile; fileRef = 30E560781E80D2AC00162E3B /* pastlooks.png */; };
+		30E5607D1E80D2AC00162E3B /* calender.png in Resources */ = {isa = PBXBuildFile; fileRef = 30E560791E80D2AC00162E3B /* calender.png */; };
+		30E560811E80D2B800162E3B /* blondlogin.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 30E5607E1E80D2B800162E3B /* blondlogin.jpg */; };
+		30E560821E80D2B800162E3B /* oie_transparent.png in Resources */ = {isa = PBXBuildFile; fileRef = 30E5607F1E80D2B800162E3B /* oie_transparent.png */; };
+		30E560831E80D2B800162E3B /* Log-In Button.png in Resources */ = {isa = PBXBuildFile; fileRef = 30E560801E80D2B800162E3B /* Log-In Button.png */; };
+		30E560851E80D2CD00162E3B /* rename.png in Resources */ = {isa = PBXBuildFile; fileRef = 30E560841E80D2CD00162E3B /* rename.png */; };
+		30E560881E80D2D400162E3B /* settings.png in Resources */ = {isa = PBXBuildFile; fileRef = 30E560861E80D2D400162E3B /* settings.png */; };
+		30E560891E80D2D400162E3B /* catalouge.png in Resources */ = {isa = PBXBuildFile; fileRef = 30E560871E80D2D400162E3B /* catalouge.png */; };
+		30E5608C1E80D43B00162E3B /* lookbook.png in Resources */ = {isa = PBXBuildFile; fileRef = 30E5608B1E80D43B00162E3B /* lookbook.png */; };
+		30E5608E1E80D56D00162E3B /* SecondScreenViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30E5608D1E80D56D00162E3B /* SecondScreenViewController.swift */; };
+		30E560921E80D60C00162E3B /* ProfileViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30E560911E80D60C00162E3B /* ProfileViewController.swift */; };
+		30E560941E80D63A00162E3B /* CatalougeViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30E560931E80D63A00162E3B /* CatalougeViewController.swift */; };
+		30E560961E80D65C00162E3B /* LookBookViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30E560951E80D65C00162E3B /* LookBookViewController.swift */; };
+		30E560981E80D67D00162E3B /* SettingsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30E560971E80D67D00162E3B /* SettingsViewController.swift */; };
+		30E5609A1E80D69E00162E3B /* CalendarViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30E560991E80D69E00162E3B /* CalendarViewController.swift */; };
+		30E5609C1E80D6C200162E3B /* UploadViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30E5609B1E80D6C200162E3B /* UploadViewController.swift */; };
+		30E5609E1E80D6DD00162E3B /* PastLooksViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30E5609D1E80D6DD00162E3B /* PastLooksViewController.swift */; };
+		30E560A01E80D6F700162E3B /* GenerateOutfitViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30E5609F1E80D6F700162E3B /* GenerateOutfitViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -37,7 +59,7 @@
 /* Begin PBXFileReference section */
 		30E5603E1E80D26B00162E3B /* StyleMe1.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = StyleMe1.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		30E560411E80D26B00162E3B /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		30E560431E80D26B00162E3B /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		30E560431E80D26B00162E3B /* HomeViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeViewController.swift; sourceTree = "<group>"; };
 		30E560461E80D26B00162E3B /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		30E560491E80D26B00162E3B /* StyleMe1.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = StyleMe1.xcdatamodel; sourceTree = "<group>"; };
 		30E5604B1E80D26B00162E3B /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
@@ -49,6 +71,28 @@
 		30E560601E80D26C00162E3B /* StyleMe1UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = StyleMe1UITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		30E560641E80D26C00162E3B /* StyleMe1UITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StyleMe1UITests.swift; sourceTree = "<group>"; };
 		30E560661E80D26C00162E3B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		30E560721E80D29300162E3B /* Line.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = Line.png; path = ../../Line.png; sourceTree = "<group>"; };
+		30E560741E80D29E00162E3B /* Walk-In-Closet-Design.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Walk-In-Closet-Design.png"; path = "../../../iCloud Drive (Archive)/Documents/StyleMeOrginal/Walk-In-Closet-Design.png"; sourceTree = "<group>"; };
+		30E560761E80D2AC00162E3B /* Ellipse.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = Ellipse.png; path = "../../../iCloud Drive (Archive)/Documents/StyleMeOrginal/Ellipse.png"; sourceTree = "<group>"; };
+		30E560771E80D2AC00162E3B /* Ellipse 10.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Ellipse 10.png"; path = "../../../iCloud Drive (Archive)/Documents/StyleMeOrginal/Ellipse 10.png"; sourceTree = "<group>"; };
+		30E560781E80D2AC00162E3B /* pastlooks.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = pastlooks.png; path = "../../../iCloud Drive (Archive)/Documents/StyleMeOrginal/pastlooks.png"; sourceTree = "<group>"; };
+		30E560791E80D2AC00162E3B /* calender.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = calender.png; path = "../../../iCloud Drive (Archive)/Documents/StyleMeOrginal/calender.png"; sourceTree = "<group>"; };
+		30E5607E1E80D2B800162E3B /* blondlogin.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = blondlogin.jpg; sourceTree = "<group>"; };
+		30E5607F1E80D2B800162E3B /* oie_transparent.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = oie_transparent.png; sourceTree = "<group>"; };
+		30E560801E80D2B800162E3B /* Log-In Button.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Log-In Button.png"; sourceTree = "<group>"; };
+		30E560841E80D2CD00162E3B /* rename.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = rename.png; sourceTree = "<group>"; };
+		30E560861E80D2D400162E3B /* settings.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = settings.png; sourceTree = "<group>"; };
+		30E560871E80D2D400162E3B /* catalouge.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = catalouge.png; sourceTree = "<group>"; };
+		30E5608B1E80D43B00162E3B /* lookbook.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = lookbook.png; sourceTree = "<group>"; };
+		30E5608D1E80D56D00162E3B /* SecondScreenViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = SecondScreenViewController.swift; path = ../SecondScreenViewController.swift; sourceTree = "<group>"; };
+		30E560911E80D60C00162E3B /* ProfileViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = ProfileViewController.swift; path = ../ProfileViewController.swift; sourceTree = "<group>"; };
+		30E560931E80D63A00162E3B /* CatalougeViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = CatalougeViewController.swift; path = ../CatalougeViewController.swift; sourceTree = "<group>"; };
+		30E560951E80D65C00162E3B /* LookBookViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = LookBookViewController.swift; path = ../LookBookViewController.swift; sourceTree = "<group>"; };
+		30E560971E80D67D00162E3B /* SettingsViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = SettingsViewController.swift; path = ../SettingsViewController.swift; sourceTree = "<group>"; };
+		30E560991E80D69E00162E3B /* CalendarViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = CalendarViewController.swift; path = ../CalendarViewController.swift; sourceTree = "<group>"; };
+		30E5609B1E80D6C200162E3B /* UploadViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = UploadViewController.swift; path = ../UploadViewController.swift; sourceTree = "<group>"; };
+		30E5609D1E80D6DD00162E3B /* PastLooksViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = PastLooksViewController.swift; path = ../PastLooksViewController.swift; sourceTree = "<group>"; };
+		30E5609F1E80D6F700162E3B /* GenerateOutfitViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = GenerateOutfitViewController.swift; path = ../GenerateOutfitViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -99,8 +143,18 @@
 		30E560401E80D26B00162E3B /* StyleMe1 */ = {
 			isa = PBXGroup;
 			children = (
+				30E5608A1E80D35D00162E3B /* StyleMeimages */,
 				30E560411E80D26B00162E3B /* AppDelegate.swift */,
-				30E560431E80D26B00162E3B /* ViewController.swift */,
+				30E560431E80D26B00162E3B /* HomeViewController.swift */,
+				30E5608D1E80D56D00162E3B /* SecondScreenViewController.swift */,
+				30E560911E80D60C00162E3B /* ProfileViewController.swift */,
+				30E560931E80D63A00162E3B /* CatalougeViewController.swift */,
+				30E560951E80D65C00162E3B /* LookBookViewController.swift */,
+				30E560971E80D67D00162E3B /* SettingsViewController.swift */,
+				30E560991E80D69E00162E3B /* CalendarViewController.swift */,
+				30E5609B1E80D6C200162E3B /* UploadViewController.swift */,
+				30E5609F1E80D6F700162E3B /* GenerateOutfitViewController.swift */,
+				30E5609D1E80D6DD00162E3B /* PastLooksViewController.swift */,
 				30E560451E80D26B00162E3B /* Main.storyboard */,
 				30E5604B1E80D26B00162E3B /* Assets.xcassets */,
 				30E5604D1E80D26B00162E3B /* LaunchScreen.storyboard */,
@@ -126,6 +180,26 @@
 				30E560661E80D26C00162E3B /* Info.plist */,
 			);
 			path = StyleMe1UITests;
+			sourceTree = "<group>";
+		};
+		30E5608A1E80D35D00162E3B /* StyleMeimages */ = {
+			isa = PBXGroup;
+			children = (
+				30E560721E80D29300162E3B /* Line.png */,
+				30E560741E80D29E00162E3B /* Walk-In-Closet-Design.png */,
+				30E560761E80D2AC00162E3B /* Ellipse.png */,
+				30E560771E80D2AC00162E3B /* Ellipse 10.png */,
+				30E560841E80D2CD00162E3B /* rename.png */,
+				30E560781E80D2AC00162E3B /* pastlooks.png */,
+				30E560861E80D2D400162E3B /* settings.png */,
+				30E5608B1E80D43B00162E3B /* lookbook.png */,
+				30E560871E80D2D400162E3B /* catalouge.png */,
+				30E5607E1E80D2B800162E3B /* blondlogin.jpg */,
+				30E5607F1E80D2B800162E3B /* oie_transparent.png */,
+				30E560801E80D2B800162E3B /* Log-In Button.png */,
+				30E560791E80D2AC00162E3B /* calender.png */,
+			);
+			name = StyleMeimages;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -235,9 +309,22 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				30E5607C1E80D2AC00162E3B /* pastlooks.png in Resources */,
+				30E560851E80D2CD00162E3B /* rename.png in Resources */,
+				30E5607B1E80D2AC00162E3B /* Ellipse 10.png in Resources */,
+				30E560831E80D2B800162E3B /* Log-In Button.png in Resources */,
+				30E5607A1E80D2AC00162E3B /* Ellipse.png in Resources */,
 				30E5604F1E80D26B00162E3B /* LaunchScreen.storyboard in Resources */,
+				30E560821E80D2B800162E3B /* oie_transparent.png in Resources */,
+				30E5607D1E80D2AC00162E3B /* calender.png in Resources */,
+				30E560881E80D2D400162E3B /* settings.png in Resources */,
+				30E560811E80D2B800162E3B /* blondlogin.jpg in Resources */,
+				30E560891E80D2D400162E3B /* catalouge.png in Resources */,
 				30E5604C1E80D26B00162E3B /* Assets.xcassets in Resources */,
 				30E560471E80D26B00162E3B /* Main.storyboard in Resources */,
+				30E560731E80D29300162E3B /* Line.png in Resources */,
+				30E560751E80D29E00162E3B /* Walk-In-Closet-Design.png in Resources */,
+				30E5608C1E80D43B00162E3B /* lookbook.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -262,9 +349,18 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				30E560441E80D26B00162E3B /* ViewController.swift in Sources */,
+				30E560941E80D63A00162E3B /* CatalougeViewController.swift in Sources */,
+				30E5609C1E80D6C200162E3B /* UploadViewController.swift in Sources */,
+				30E5609E1E80D6DD00162E3B /* PastLooksViewController.swift in Sources */,
+				30E5608E1E80D56D00162E3B /* SecondScreenViewController.swift in Sources */,
+				30E560961E80D65C00162E3B /* LookBookViewController.swift in Sources */,
+				30E560441E80D26B00162E3B /* HomeViewController.swift in Sources */,
+				30E560921E80D60C00162E3B /* ProfileViewController.swift in Sources */,
 				30E560421E80D26B00162E3B /* AppDelegate.swift in Sources */,
+				30E5609A1E80D69E00162E3B /* CalendarViewController.swift in Sources */,
 				30E5604A1E80D26B00162E3B /* StyleMe1.xcdatamodeld in Sources */,
+				30E560A01E80D6F700162E3B /* GenerateOutfitViewController.swift in Sources */,
+				30E560981E80D67D00162E3B /* SettingsViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -509,6 +605,7 @@
 				30E5606B1E80D26C00162E3B /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		30E5606C1E80D26C00162E3B /* Build configuration list for PBXNativeTarget "StyleMe1Tests" */ = {
 			isa = XCConfigurationList;
@@ -517,6 +614,7 @@
 				30E5606E1E80D26C00162E3B /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		30E5606F1E80D26C00162E3B /* Build configuration list for PBXNativeTarget "StyleMe1UITests" */ = {
 			isa = XCConfigurationList;
@@ -525,6 +623,7 @@
 				30E560711E80D26C00162E3B /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 
